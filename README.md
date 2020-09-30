@@ -1,4 +1,4 @@
 PythonBasics
 ============
 
-simple notes about python basics
+simple but also effective notes about python basics
